@@ -29,3 +29,8 @@ android {
         jvmTarget = "17"
     }
 }
+
+
+dependencies {
+    implementation("androidx.browser:browser:1.8.0")
+}
